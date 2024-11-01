@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\Cursop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D952F197-A66E-42E3-9EA0-6F8E31ED9C0C}|Cursop2\\Cursop2.csproj|c:\\users\\home\\source\\repos\\cursop2\\cursop2\\web2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D952F197-A66E-42E3-9EA0-6F8E31ED9C0C}|Cursop2\\Cursop2.csproj|solutionrelative:cursop2\\web2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D952F197-A66E-42E3-9EA0-6F8E31ED9C0C}|Cursop2\\Cursop2.csproj|c:\\users\\home\\source\\repos\\cursop2\\cursop2\\css2\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D952F197-A66E-42E3-9EA0-6F8E31ED9C0C}|Cursop2\\Cursop2.csproj|solutionrelative:cursop2\\css2\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Cursop2\\Cursop2\\css2\\main.css",
+              "RelativeDocumentMoniker": "Cursop2\\css2\\main.css",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Cursop2\\Cursop2\\css2\\main.css",
+              "RelativeToolTip": "Cursop2\\css2\\main.css",
+              "ViewState": "AgIAAEQAAAAAZmZmZiYnwFcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T19:33:57.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web2.html",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Cursop2\\Cursop2\\web2.html",
+              "RelativeDocumentMoniker": "Cursop2\\web2.html",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Cursop2\\Cursop2\\web2.html",
+              "RelativeToolTip": "Cursop2\\web2.html",
+              "ViewState": "AgIAABcAAACAmpmZmRkWwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-01T19:33:18.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\Curso html\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A71E35-47F3-4DE7-91C7-1B4E7DD12128}|Curso html\\Curso html.csproj|c:\\users\\home\\source\\repos\\curso html\\curso html\\curso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5A71E35-47F3-4DE7-91C7-1B4E7DD12128}|Curso html\\Curso html.csproj|solutionrelative:curso html\\curso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A71E35-47F3-4DE7-91C7-1B4E7DD12128}|Curso html\\Curso html.csproj|c:\\users\\home\\source\\repos\\curso html\\curso html\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5A71E35-47F3-4DE7-91C7-1B4E7DD12128}|Curso html\\Curso html.csproj|solutionrelative:curso html\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSS.css",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Curso html\\Curso html\\CSS.css",
+              "RelativeDocumentMoniker": "Curso html\\CSS.css",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Curso html\\Curso html\\CSS.css*",
+              "RelativeToolTip": "Curso html\\CSS.css*",
+              "ViewState": "AgIAAAIAAADAzMzMzAwswBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T18:34:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.aspx",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Curso html\\Curso html\\Curso.aspx",
+              "RelativeDocumentMoniker": "Curso html\\Curso.aspx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Curso html\\Curso html\\Curso.aspx",
+              "RelativeToolTip": "Curso html\\Curso.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T17:44:09.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
